@@ -1,0 +1,7 @@
+(RULE 1 (IF (fh) & (ac)) (THEN (bg)))
+(RULE 2 (IF (ns)) (THEN (em)))
+(RULE 3 (IF (rt)) (THEN (pq)))
+(RULE 4 (IF (dj) & (em) & (ki)) (THEN (ac)))
+(RULE 5 (IF (pq)) (THEN (ns)))
+(RULE 6 (IF (uv)) (THEN (ki)))
+
